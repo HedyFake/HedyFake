@@ -1,6 +1,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">My Profile 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </em>Social Media<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+
  ![GitHub followers](https://img.shields.io/github/followers/HedyFake?label=Follow&style=social)
  ![Twitter](https://img.shields.io/twitter/follow/iAmHere96509046?label=Follow)
 
