@@ -1,8 +1,7 @@
 ### Profile
 
-	<p>Coding, and  IT Security, Osint.</p>
-	<br />
-	
+<p>Coding, and  IT Security, Osint.</p>
+<br />	
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=%F0%9F%91%8B+Hi%2C+Iam+Hedy!" /></h1>
   <br />
