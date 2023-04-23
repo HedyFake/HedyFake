@@ -1,6 +1,15 @@
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">My Profile 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
+</a>
+<div align="center">
+	<h1><img width="80%" src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=%F0%9F%91%8B+Hi%2C+Iam+Hedy!]" /></h1>
+  <br />
+	<p>Coding, and  IT Security, Osint.</p>
+	<br />
+	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
+	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
+  <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
+  <br />
   
  ![GitHub followers](https://img.shields.io/github/followers/HedyFake?label=Follow&style=social)
  ![Twitter](https://img.shields.io/twitter/follow/iAmHere96509046?label=Follow)
