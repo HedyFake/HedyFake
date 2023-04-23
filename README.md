@@ -1,8 +1,7 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
-</a>
+##Profile
+
 <div align="center">
-	<h1><img width="80%" src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=%F0%9F%91%8B+Hi%2C+Iam+Hedy!]" /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=%F0%9F%91%8B+Hi%2C+Iam+Hedy!" /></h1>
   <br />
 	<p>Coding, and  IT Security, Osint.</p>
 	<br />
