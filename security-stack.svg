@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" rx="24" fill="#030712" stroke="#00eaff" stroke-opacity=".5"/>
+<text x="600" y="58" text-anchor="middle" font-family="monospace" font-size="30" fill="#fff">HEDYFAKE SECURITY STACK</text>
+<g font-family="monospace" font-size="17">
+<g fill="#00f5ff"><text x="70" y="115">RECON</text><text x="310" y="115">WEB SECURITY</text><text x="610" y="115">AUTOMATION</text><text x="900" y="115">INTELLIGENCE</text></g>
+<g fill="#d7f9ff">
+<text x="70" y="155">• Domain discovery</text><text x="310" y="155">• CORS</text><text x="610" y="155">• Python</text><text x="900" y="155">• OSINT</text>
+<text x="70" y="190">• Subdomain mapping</text><text x="310" y="190">• XSS</text><text x="610" y="190">• PHP</text><text x="900" y="190">• Metadata</text>
+<text x="70" y="225">• Endpoint discovery</text><text x="310" y="225">• SQLi</text><text x="610" y="225">• JavaScript</text><text x="900" y="225">• Digital forensics</text>
+<text x="70" y="260">• HTTP analysis</text><text x="310" y="260">• IDOR/AuthZ</text><text x="610" y="260">• Shell</text><text x="900" y="260">• Privacy research</text>
+<text x="70" y="295">• Passive collection</text><text x="310" y="295">• CSRF</text><text x="610" y="295">• JSONL</text><text x="900" y="295">• Security awareness</text>
+<text x="310" y="330">• SSRF/LFI</text><text x="610" y="330">• Workers</text>
+<text x="310" y="365">• Open Redirect</text><text x="610" y="365">• Telegram</text>
+<text x="310" y="400">• Secrets</text><text x="610" y="400">• HTML reports</text>
+</g>
+<path d="M70 450H1130" stroke="#7c3cff"/><text x="600" y="505" text-anchor="middle" fill="#00ff9d" font-size="23">BUILDING TOOLS • NOT JUST RUNNING TOOLS</text>
+<text x="600" y="545" text-anchor="middle" fill="#8aa8b8" font-size="17">From small scripts → repeatable workflows → evidence-driven security tooling</text>
+</g>
+</svg>
